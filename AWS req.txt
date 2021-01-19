@@ -1,0 +1,23 @@
+Senior AWS Cloud lead
+SAVE
+
+Infosys
+Toronto, ON, Canada
+Apply on LinkedIn
+16 days agoFull–time
+Job Description
+
+Infosys is seeking a AWS Cloud Lead . This position will interface with key stakeholders and apply technical proficiency across different stages of the Software Development Life Cycle including Requirements Elicitation, Application Architecture definition and Design; play an important role in creating the high level design artifacts; deliver high quality code deliverables for a module, lead validation for all types of testing and support activities related to implementation, transition and warranty. This is an opportunity to be part of a learning culture, where teamwork and collaboration are encouraged, excellence is rewarded, and diversity is respected and valued.
+
+Required Qualifications
+• Candidate must be located within commuting distance of Toronto , Ontario or be willing to relocate to the area. This position may require travel.
+• Bachelor’s degree or foreign equivalent required from an accredited institution. Will also consider three years of progressive experience in the specialty in lieu of every year of education.
+• At least 4 years of Information Technology experience.
+• Canadian citizens and those authorized to work in the Canada are encouraged to apply. We are unable to sponsor at this time. Preferred Qualifications:
+• Minimum 3 years of AWS experience
+• Linux OS experience (RHEL/Centos/Ubuntu) with troubleshooting capabilities across variety of areas like Networking, Storage, Memory etc. and performing system maintenance activities like patching, decommissioning etc.
+• Extensive hands-on experience using AWS services: EC2, EFS, S3, ELB, WAF, Lambda, IAM, Autoscaling, CloudFormation, Cloud Watch, Cloud Trail, DMS, Lake Formation, Kinesis, Kafka, RDS, Aurora, Neptune, DynamoDB, EKS, Docker, API GW, etc.
+• Capable in automating routine Infra tasks like patching, tagging and write custom scripts using Python/Perl/Shell.
+• Ability to work in a diverse/ multiple stakeholder environment
+• Experience and desire to work in a Global delivery environment
+• Certified AWS certified solutions architect - Associate
